@@ -15,7 +15,7 @@ Web制作の基礎から応用までを体系的に学び、実際の成果物�
 | プロジェクト名 | 内容 | リンク |
 |----------------|------|--------|
 | **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | オリジナルデザインのWebサイト |
-| **[Maple_villege](https://web-works-project.github.io/web-maple-villege/) ** | オリジナルデザインのWebサイト |
+| **[Maple_villege](https://web-works-project.github.io/web-maple-villege/)** | オリジナルデザインのWebサイト |
 | **[chalon](https://web-works-project.github.io/web-chalon/)** | 講座課題として制作したWebサイト |
 
 ## 🎯 目的
