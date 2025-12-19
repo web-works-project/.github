@@ -14,9 +14,9 @@ Web制作の基礎から応用までを体系的に学び、実際の成果物�
 ## 🎨 成果物一覧
 | プロジェクト名 | 内容 | リンク |
 |----------------|------|--------|
-| **sunday_flower** | オリジナルデザインのWebサイト | [リポジトリへ](https://web-works-project.github.io/web-sunday-flower/) |
-| **Maple_villege** | オリジナルデザインのWebサイト | [リポジトリへ](https://web-works-project.github.io/web-maple-villege/) |
-| **chalon** | 講座課題として制作したWebサイト | [リポジトリへ](https://web-works-project.github.io/web-chalon/) |
+| **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | オリジナルデザインのWebサイト | [リポジトリへ](https://web-works-project.github.io/web-sunday-flower/) |
+| **[Maple_villege]** | オリジナルデザインのWebサイト | [リポジトリへ](https://web-works-project.github.io/web-maple-villege/) |
+| **[chalon]** | 講座課題として制作したWebサイト | [リポジトリへ](https://web-works-project.github.io/web-chalon/) |
 
 ## 🎯 目的
 - 学習内容の整理と振り返り  
