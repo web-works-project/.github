@@ -12,6 +12,7 @@ Web制作の基礎から応用までを体系的に学び、実際の成果物�
 - WordPressによるサイト構築
 
 ## 🎨 成果物一覧
+WEBサイト名をクリックしてご覧ください
 | WEBサイト名 | 内容 |
 |----------------|------|
 | **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | オリジナルデザインのWebサイト |
