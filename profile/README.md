@@ -21,7 +21,7 @@ WEBサイト名をクリックしてご覧ください
 
 | サイト名 | サイトイメージ | 説明 |
 |---|---|---|
-| **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="[./images/sunday_flower.png](https://raw.githubusercontent.com/chie-works/chie-works/main/images/sunday_flower.png)" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
+| **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="https://raw.githubusercontent.com/chie-works/chie-works/main/images/sunday_flower.png" alt="Sunday Flower" width="150"></a> | 学習のために作成した架空の花屋サイトです。 |
 | **[Maple_villege](https://web-works-project.github.io/web-maple-villege/)** | <a href="https://web-works-project.github.io/web-maple-villege/"><img src="./images/maple_villege.png" alt="maple villege" width="150"></a> | 学習のために作成した架空の観光サイトです。 |
 | **[chalon](https://web-works-project.github.io/web-chalon/)** | <a href="https://web-works-project.github.io/web-chalon/"><img src="./images/chalon.png" alt="chalon" width="150"></a> | 職業訓練校の講座内で作成した課題サイトです。 |
 
