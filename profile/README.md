@@ -13,12 +13,6 @@ Web制作の基礎から応用までを体系的に学び、実際の成果物�
 
 ## 🎨 成果物一覧
 WEBサイト名をクリックしてご覧ください
-| WEBサイト名 | 内容 |
-|----------------|------|
-| **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | オリジナルデザインのWebサイト |
-| **[Maple_villege](https://web-works-project.github.io/web-maple-villege/)** | オリジナルデザインのWebサイト |
-| **[chalon](https://web-works-project.github.io/web-chalon/)** | 講座課題として制作したWebサイト |
-
 | サイト名 | サイトイメージ | 説明 |
 |---|---|---|
 | **[sunday_flower](https://web-works-project.github.io/web-sunday-flower/)** | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="https://raw.githubusercontent.com/chie-works/chie-works/main/images/sunday_flower.png" alt="Sunday Flower" width="200"></a> | 学習のために作成した架空の花屋サイトです。 |
