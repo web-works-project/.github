@@ -1,6 +1,6 @@
 ## My ポートフォリオ(Webサイト)
 職業訓練校にてWEBサイト作成を学びました。  
-WEBサイト名、サムネイル画像をクリックしてポートフォリオをご覧ください
+WEBサイト名、画像をクリックしてポートフォリオをご覧ください
 | WEBサイト名 | サイトイメージ | 説明 |
 |---|---|---|
 | **[Sunday Flower](https://web-works-project.github.io/web-sunday-flower/)** | <a href="https://web-works-project.github.io/web-sunday-flower/"><img src="https://raw.githubusercontent.com/chie-works/chie-works/main/images/sunday_flower.png" alt="Sunday Flower" width="300"></a> | 学習のために作成した架空の花屋サイトです。<br>デザインからコーディングまで一人で行いました。<br>同じ内容をWordPressでも構築しました。<br>HTML / CSS / JavaScript  /WordPress / PHP |
