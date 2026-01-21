@@ -12,4 +12,4 @@ WEBサイト名、画像をクリックして実際のサイトをご覧くだ�
 - WordPressによるサイト構築
 - プロトタイプWebデザイン
 - レスポンシブWebデザイン
-- Illustrator / Photosデザイン
+- Illustrator / Photoshop
