@@ -1,3 +1,4 @@
+[Python学習ログを見る](https://github.com/python-works-project/.github/blob/main/profile/README.md)
 ## My ポートフォリオ(Webサイト)
 職業訓練校にてWEBサイト作成を学びました。  
 WEBサイト名、画像をクリックして実際のサイトをご覧ください
