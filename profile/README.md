@@ -1,4 +1,4 @@
-# web-works-project
+# ポートフォリオ（Webサイト）
 
 ## 🌐 概要
 このOrganizationは、職業訓練校「これからはじめるデザイン・マーケティング科」（半年間）で学んだ内容を整理するためのリポジトリ群です。  
@@ -6,10 +6,10 @@ Web制作の基礎から応用までを体系的に学び、実際の成果物�
 
 ## 📖 学習内容
 - HTML / CSS / JavaScript
+- WordPressによるサイト構築
 - プロトタイプWebデザイン
 - レスポンシブWebデザイン
 - Illustrator / Photoshop
-- WordPressによるサイト構築
 
 ## 🎨 成果物一覧
 WEBサイト名をクリックしてご覧ください
